@@ -4,7 +4,7 @@ Genetic algorithm implemented in python.
 
 
 
-The classic 8 queens puzzle, the problem of placing eight chess queens on an 8×8 chessboard so that none of them threaten another.
+The classic 8 queens puzzle, the problem of placing eight chess queens on an 8×8 chessboard so that none of them threatens another.
 
 In this implementation the program finds a solution for placing n queens on a board n x n with the use of Genetic algorithm. The default mutation is set to 50% (which is high), but you have the ability to change it.
 
